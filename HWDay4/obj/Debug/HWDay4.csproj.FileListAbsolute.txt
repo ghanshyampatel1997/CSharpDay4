@@ -1,0 +1,14 @@
+D:\desktop\dotnet training\C#\C# code\day 4\PrjDay4\HWDay4\bin\Debug\HWDay4.exe.config
+D:\desktop\dotnet training\C#\C# code\day 4\PrjDay4\HWDay4\bin\Debug\HWDay4.exe
+D:\desktop\dotnet training\C#\C# code\day 4\PrjDay4\HWDay4\bin\Debug\HWDay4.pdb
+D:\desktop\dotnet training\C#\C# code\day 4\PrjDay4\HWDay4\obj\Debug\HWDay4.csprojAssemblyReference.cache
+D:\desktop\dotnet training\C#\C# code\day 4\PrjDay4\HWDay4\obj\Debug\HWDay4.csproj.CoreCompileInputs.cache
+D:\desktop\dotnet training\C#\C# code\day 4\PrjDay4\HWDay4\obj\Debug\HWDay4.exe
+D:\desktop\dotnet training\C#\C# code\day 4\PrjDay4\HWDay4\obj\Debug\HWDay4.pdb
+D:\desktop\dotnet training\Bootcamp1 complite\C#\C# code\day 4\PrjDay4\HWDay4\bin\Debug\HWDay4.exe.config
+D:\desktop\dotnet training\Bootcamp1 complite\C#\C# code\day 4\PrjDay4\HWDay4\bin\Debug\HWDay4.exe
+D:\desktop\dotnet training\Bootcamp1 complite\C#\C# code\day 4\PrjDay4\HWDay4\bin\Debug\HWDay4.pdb
+D:\desktop\dotnet training\Bootcamp1 complite\C#\C# code\day 4\PrjDay4\HWDay4\obj\Debug\HWDay4.csprojAssemblyReference.cache
+D:\desktop\dotnet training\Bootcamp1 complite\C#\C# code\day 4\PrjDay4\HWDay4\obj\Debug\HWDay4.csproj.CoreCompileInputs.cache
+D:\desktop\dotnet training\Bootcamp1 complite\C#\C# code\day 4\PrjDay4\HWDay4\obj\Debug\HWDay4.exe
+D:\desktop\dotnet training\Bootcamp1 complite\C#\C# code\day 4\PrjDay4\HWDay4\obj\Debug\HWDay4.pdb
